@@ -23,3 +23,25 @@ if gradeA == true
     print("I'm not sure about coding in Swift")
 }
 
+//Part 5
+var myFirstVariable = 5
+var mySecondVariable = 10
+
+if myFirstVariable > mySecondVariable{
+    
+    print("5 is greater than 10")
+
+}else{
+    print("The statement is false and 5 is smaller than 10")
+}
+
+var theDay = true
+
+if theDay == true
+{
+    print("Today went by fast")
+    
+}else{
+    print("Today did not go by fast")
+}
+
